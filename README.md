@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou a Taís!</h1>
+<h1 align="left">Olá, Eu sou a Taís!</h1>
 
 - 🔭 Atualmente estou estudando desenvolvimento front-end
 - 🌱 Mais especificamente JavaScript e React.JS
