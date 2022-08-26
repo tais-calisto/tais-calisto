@@ -1,7 +1,6 @@
 <h1 align="left">Olá, Eu sou a Taís!</h1>
 
-- 🔭 Atualmente estou estudando desenvolvimento front-end
-- 🌱 Mais especificamente JavaScript e React.JS
+- 🔭 Atualmente estou estudando desenvolvimento full-stack MERN
 - 😄 Pronomes: ela/dela
 - 📫 Contate-me: contato.taiscalisto@gmail.com <a href="https://www.linkedin.com/in/ta%C3%ADs-calisto-43725a134/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-taiscalisto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
